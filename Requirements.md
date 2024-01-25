@@ -1,0 +1,33 @@
+- [ ] Can grab curated app database from yaml file
+- [ ] Creates SQL database for cross language support
+- [ ] Can check to make sure sources are configured properly
+- [ ] App ID to yaml
+- [ ] CLI:
+  - [ ] update database
+  - [ ] database location
+  - [ ] fix sources
+
+- App:
+  - id
+  - app_name
+  - primary_source
+  - icon_url
+  - author
+  - summary
+  - descriptions
+  - categories (list)
+  - keywords (list)
+  - mimetypes (list)
+  - license
+  - pricing
+  - mobile
+  - still_rating
+    - number
+    - notes
+  - size_bytes
+  - homepage
+  - donate
+  - ss_urls
+  - demo_url
+  - addons
+  - search_tags
