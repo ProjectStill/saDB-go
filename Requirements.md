@@ -10,11 +10,12 @@
 - App:
   - id
   - app_name
-  - primary_source
+  - primary_src
+  - src_pkg_name
   - icon_url
   - author
   - summary
-  - descriptions
+  - description
   - categories (list)
   - keywords (list)
   - mimetypes (list)
@@ -30,4 +31,3 @@
   - ss_urls
   - demo_url
   - addons
-  - search_tags
